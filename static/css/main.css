@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Alike";
+    src: url("Alike-Regular.ttf");
+}
+
+#title1{
+    font-size: 27px;
+    text-align: left;
+    font-family: "Alike";
+}
+
+#title2, #title3{
+    font-family: "Alike";
+    font-size: 20px;
+    text-align: left;
+}
